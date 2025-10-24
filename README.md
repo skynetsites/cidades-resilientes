@@ -6,7 +6,7 @@
 Movimento Global – Comunidade de Ideias Cidadãs (Cidades Resilientes)
 
 ## Autor(es):
-[Nome dos integrantes]
+Francisco Isaias Oliveira de Sou, Daniel da Cruz Fortes
 
 ## Data:
 Outubro/2025
