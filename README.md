@@ -1,119 +1,223 @@
 # 🌍 Movimento Global – Comunidade de Ideias Cidadãs (Cidades Resilientes)
 
-> Transformando sugestões dos cidadãos em ações reais para cidades mais inteligentes, sustentáveis e resilientes.
+> 💬 Transformando sugestões dos cidadãos em ações reais para cidades mais inteligentes, sustentáveis e resilientes.
 
-## Título:
-Movimento Global – Comunidade de Ideias Cidadãs (Cidades Resilientes)
+## 🏙️ Título
+**Movimento Global – Comunidade de Ideias Cidadãs (Cidades Resilientes)**
 
-## Autor(es):
+## ✍️ Autor(es)
 Francisco Isaias Oliveira de Sou, Daniel da Cruz Fortes
 
-## Data:
+## 📅 Data
 Outubro/2025
 
-## Problema e Público-Alvo
-As cidades enfrentam desafios significativos devido à urbanização acelerada e desordenada. A infraestrutura muitas vezes não acompanha o crescimento populacional, resultando em congestionamentos, poluição e baixa qualidade de vida. Além disso, há uma lacuna de comunicação entre cidadãos e gestores públicos, o que faz com que boas ideias e sugestões acabem não sendo aproveitadas.  
+---
 
-O público-alvo deste projeto inclui cidadãos ativos, gestores públicos, educadores e organizações que buscam soluções urbanas inovadoras. O foco inicial são cidades médias e grandes das regiões Sudeste e Sul do Brasil.
+## 💡 Problema e Público-Alvo
+As cidades enfrentam desafios significativos devido à urbanização acelerada e desordenada. A infraestrutura muitas vezes não acompanha o crescimento populacional, resultando em congestionamentos, poluição e baixa qualidade de vida.  
+Além disso, há uma lacuna de comunicação entre cidadãos e gestores públicos, o que faz com que boas ideias e sugestões acabem não sendo aproveitadas.  
 
-## Resumo Executivo
-O Movimento Global – Comunidade de Ideias Cidadãs é uma plataforma digital que conecta cidadãos, gestores e especialistas para transformar ideias em ações concretas.  
+🎯 **Público-alvo:** cidadãos ativos, gestores públicos, educadores e organizações que buscam soluções urbanas inovadoras.  
+O foco inicial são cidades médias e grandes das regiões Sudeste e Sul do Brasil.
 
-Os usuários podem enviar sugestões de melhorias urbanas, votar nas ideias mais relevantes e acompanhar o progresso de sua implementação. Além disso, a plataforma oferece um mini curso educativo sobre mudanças climáticas e resiliência urbana, capacitando cidadãos a participarem de forma consciente.  
+---
 
-A solução combina tecnologia, educação e engajamento social, promovendo cidades mais inteligentes, sustentáveis e participativas.
+## 🚀 Resumo Executivo
+O **Movimento Global – Comunidade de Ideias Cidadãs** é uma plataforma digital que conecta cidadãos, gestores e especialistas para transformar ideias em ações concretas.  
 
-## Sobre a Solução
+👥 Os usuários podem enviar sugestões de melhorias urbanas, votar nas ideias mais relevantes e acompanhar o progresso de sua implementação.  
+📚 A plataforma também oferece um **mini curso educativo** sobre mudanças climáticas e resiliência urbana, capacitando cidadãos a participarem de forma consciente.  
 
-### Escopo do Projeto
+A solução combina **tecnologia, educação e engajamento social**, promovendo cidades mais inteligentes, sustentáveis e participativas.
+
+---
+
+## 🧩 Sobre a Solução
+
+### 🧱 Escopo do Projeto
 O projeto contempla:
-- Interface web responsiva e acessível, permitindo interação de usuários de diferentes faixas etárias e níveis de conhecimento digital.  
-- Sistema de cadastro, envio e votação de ideias, com dashboard para acompanhamento de métricas e status de propostas.  
-- Integração com bancos de dados e planilhas Google, garantindo registro seguro e acompanhamento automatizado de resultados.  
-- Módulo educacional, com mini curso sobre sustentabilidade urbana, mudanças climáticas e práticas de resiliência.  
-- Geração de ofícios oficiais para envio das propostas aprovadas diretamente aos órgãos públicos competentes.
+- 💻 Interface web responsiva e acessível, permitindo interação de usuários de diferentes perfis.  
+- 💡 Sistema de cadastro, envio e votação de ideias, com dashboard de métricas.  
+- 🔥 Integração com **Cloud Firestore** para armazenamento seguro e em tempo real.  
+- 🎓 Módulo educacional com mini curso sobre sustentabilidade urbana e resiliência.  
+- 📨 Geração de ofícios automáticos para envio de propostas aos órgãos públicos competentes.
 
-### Fora do Escopo
+### 🚫 Fora do Escopo
 - Desenvolvimento de aplicativo mobile nativo.  
-- Implementação de chat em tempo real entre usuários e gestores.  
-- Execução física de ações nas cidades; a plataforma atua apenas na etapa digital.
+- Chat em tempo real entre usuários e gestores.  
+- Execução física das ações nas cidades (a plataforma atua apenas na fase digital).
 
-## Links Importantes
-- GitHub: https://github.com/skynetsites/cidades-inteligentes  
-- Demo: https://skynetsites.github.io/cidades-inteligentes  
-- Vídeo Demo (1 minuto): https://youtube.com/MovimentoGlobalDemo  
+---
 
-## Histórias de Usuário
-- Como cidadão: enviar ideias para melhorar minha cidade, acompanhar popularidade e receber feedback sobre andamento.  
-- Como gestor público: visualizar ideias prioritárias, identificar necessidades da população e tomar decisões embasadas em dados reais.  
-- Como educador: utilizar o mini curso para capacitar cidadãos sobre sustentabilidade.  
-- Como desenvolvedor: garantir que a plataforma seja funcional, segura, acessível e fácil de manter.
+## 🔗 Links Importantes
+- 🧠 GitHub: [https://github.com/skynetsites/cidades-inteligentes](https://github.com/skynetsites/cidades-inteligentes)  
+- 🌐 Demo: [https://skynetsites.github.io/cidades-inteligentes](https://skynetsites.github.io/cidades-inteligentes)  
+- 🎥 Vídeo Demo (1 minuto): [https://youtube.com/MovimentoGlobalDemo](https://youtube.com/MovimentoGlobalDemo)
 
-## Requisitos do Projeto
-### Funcionais
-- Cadastro e autenticação de usuários via JWT.  
+---
+
+## 👥 Histórias de Usuário
+- 👩‍💻 **Cidadão:** enviar ideias para melhorar minha cidade, acompanhar popularidade e receber feedback.  
+- 🏛️ **Gestor público:** visualizar ideias prioritárias e tomar decisões com base em dados reais.  
+- 🧑‍🏫 **Educador:** utilizar o mini curso para promover consciência cidadã e ambiental.  
+- 👨‍🔧 **Desenvolvedor:** garantir que a plataforma seja funcional, segura e fácil de manter.
+
+---
+
+## ⚙️ Requisitos do Projeto
+
+### ✅ Funcionais
+- Cadastro e autenticação de usuários via **Google (Firebase Authentication)**.  
 - Envio, votação e acompanhamento de ideias urbanas.  
-- Dashboard administrativo completo, com métricas e relatórios.  
-- Módulo educativo interativo, com quizzes e conteúdos multimídia.
+- Dashboard administrativo com métricas e relatórios.  
+- Módulo educativo interativo com quizzes e conteúdos multimídia.
 
-### Não Funcionais
+### 🛡️ Não Funcionais
 - Interface responsiva e acessível (WCAG 2.1).  
-- Segurança de dados com criptografia e boas práticas.  
-- Código modular e testado, garantindo manutenção e escalabilidade.  
-- Disponibilidade online confiável através de hospedagem em GitHub Pages e Render.
+- Segurança de dados via autenticação Firebase.  
+- Código modular e escalável.  
+- Hospedagem confiável via **Vercel** (front-end) e **Firebase Hosting** (opcional).
 
-## Arquitetura e Componentes
-- Front-end: React + PrimeReact + PrimeFlex  
-- Back-end: Node.js + Express + Sequelize (MySQL)  
-- Banco de Dados: MySQL  
-- Autenticação: JWT  
-- Hospedagem: GitHub Pages / Render  
-- Integrações: Google Forms / Planilhas Google  
+---
 
-Fluxo de Arquitetura:  
-Usuário → Interface Web (React) → API REST (Express) → Banco de Dados (MySQL) → Planilhas Google
+## 🏗️ Arquitetura e Componentes
+- **Front-end:** ⚛️ React + Next.js + TypeScript + TailwindCSS  
+- **Back-end:** ☁️ Firebase (Cloud Firestore + Authentication)  
+- **Banco de Dados:** 🗃️ Cloud Firestore  
+- **Autenticação:** 🔑 Firebase Authentication (Login com Google)  
+- **Hospedagem:** 🌎 Vercel / Firebase Hosting  
+- **Integrações:** 🔗 Firestore / Google APIs  
 
-## Como Executar o Projeto
-Pré-requisitos:
+📊 **Fluxo da Arquitetura:**  
+Usuário → Interface Web (Next.js) → Firebase Authentication → Cloud Firestore (armazenamento e sincronização em tempo real)
+
+---
+
+## 💻 Como Executar o Projeto
+
+### 🧰 Pré-requisitos
 - Node.js v18+  
-- MySQL Server  
+- Conta no [Firebase Console](https://console.firebase.google.com/)  
 - Git  
 
-Passos:
-1. git clone https://github.com/skynetsites/cidades-inteligentes.git  
-2. cd cidades-inteligentes  
-3. npm install  
-4. Configurar variáveis de ambiente (.env):
-   DB_HOST=localhost  
-   DB_USER=root  
-   DB_PASS=senha  
-   DB_NAME=cidades_db  
-   JWT_SECRET=chave_secreta  
-5. npm run dev  
-6. Acesse a aplicação: http://localhost:3000  
+### 🚀 Passos para rodar localmente
 
-## Cronograma e Metodologia
-Metodologia: Scrum adaptado, com Sprints quinzenais, planejamento, execução e revisão das tarefas via GitHub Projects.
+Clone o repositório:  
+`git clone https://github.com/skynetsites/cidades-inteligentes.git`  
+`cd cidades-inteligentes`
 
-| Etapa       | Período   | Entregas                                     |
-|------------|-----------|---------------------------------------------|
-| Sprint 1   | 01–15/09 | Planejamento, definição de escopo e wireframe |
-| Sprint 2   | 16–30/09 | Desenvolvimento do MVP                       |
-| Sprint 3   | 01–15/10 | Integração com banco de dados e testes       |
-| Sprint 4   | 16–31/10 | Validação final e apresentação               |
+Instale as dependências:  
+`npm install`
 
-## Equipe e Funções
-| Função                  | Responsável    | Atribuições                                                        |
-|-------------------------|----------------|-------------------------------------------------------------------|
-| Diretoria Executiva      | [Seu Nome]    | Coordenação geral, definição de metas e acompanhamento de entregas |
-| Administração            | —             | Controle de documentação, finanças e recursos                     |
-| Desenvolvimento          | —             | Criação, manutenção e testes do protótipo                          |
-| Marketing / Comercial    | —             | Estratégia de divulgação e engajamento de usuários                 |
-| Conteúdo / Educação      | —             | Criação do mini curso e materiais educativos                       |
+Configure as variáveis de ambiente (`.env.local`): 
 
-## Conclusão
-O Movimento Global é uma iniciativa inovadora que combina tecnologia, educação e engajamento social para transformar ideias em ações concretas.  
+NEXT_PUBLIC_FIREBASE_API_KEY=SUACHAVE
+NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN=seuprojeto.firebaseapp.com
+NEXT_PUBLIC_FIREBASE_PROJECT_ID=seuprojeto
+NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET=seuprojeto.appspot.com
+NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID=000000000000
+NEXT_PUBLIC_FIREBASE_APP_ID=1:000000000000:web:xxxxxxxxxxxxx
 
-A plataforma capacita cidadãos, conecta gestores e promove cidades mais resilientes, inteligentes e sustentáveis.  
 
-Este projeto é escalável, adaptável e pronto para crescer, com potencial de impacto positivo significativo em nível local e global.
+Inicie o servidor de desenvolvimento:  
+`npm run dev`
+
+Acesse a aplicação em:  
+👉 [http://localhost:3000](http://localhost:3000)
+
+---
+
+## ☁️ Configuração do Firebase
+
+### 1️⃣ Criar o projeto
+- Acesse o [Firebase Console](https://console.firebase.google.com) e clique em **Adicionar Projeto**.  
+- Dê um nome, aceite os termos e aguarde a criação.
+
+### 2️⃣ Ativar Firestore
+- Vá até **Firestore Database → Criar Banco de Dados**  
+- Escolha o **modo Produção**  
+- Defina o local (ex: `southamerica-east1`)  
+- Após criado, visualize e edite documentos em tempo real.
+
+### 3️⃣ Ativar Authentication
+- Vá até **Authentication → Método de Login**  
+- Ative o **Login com Google**  
+- Configure o domínio autorizado (ex: `http://localhost:3000` ou o domínio da Vercel).
+
+### 4️⃣ Obter Configurações
+- Vá até **Configurações do Projeto → Suas Apps → Configurações Web**  
+- Copie o objeto de configuração e cole os valores no arquivo `.env.local`.
+
+### 5️⃣ (Opcional) Firebase Hosting
+Para hospedar o back-end:  
+`npm install -g firebase-tools`  
+`firebase login`  
+`firebase init hosting`  
+`firebase deploy`
+
+---
+
+## ☁️ Deploy – 🚀 Publicando o Front-end
+
+### Vercel
+1. Crie uma conta em [https://vercel.com](https://vercel.com)  
+2. Conecte o repositório do GitHub  
+3. Adicione as variáveis de ambiente (`NEXT_PUBLIC_FIREBASE_*`)  
+4. Clique em **Deploy**  
+🌐 Publicado automaticamente em poucos minutos 🎉
+
+### GitHub Pages
+1. Configure o build do Next.js (`next.config.js`):
+```js
+const nextConfig = {
+  output: 'export',
+  images: { unoptimized: true },
+  trailingSlash: true,
+};
+export default nextConfig;
+
+2. Gere os arquivos estáticos:
+npm run build
+
+3. Publique no branch gh-pages:
+
+git add .
+git commit -m "Build estático para GitHub Pages"
+git subtree push --prefix out origin gh-pages
+
+4. Configure em Settings → Pages → branch gh-pages → /root
+
+🌐 Acesse: https://seuusuario.github.io/cidades-resiliente/
+
+---
+
+## 🗓️ Cronograma e Metodologia
+**Metodologia:** Scrum adaptado, com sprints quinzenais gerenciadas via GitHub Projects.
+
+| 🧩 Etapa | ⏰ Período | 📦 Entregas |
+|----------|------------|-------------|
+| Sprint 1 | 01–15/09 | Planejamento, definição de escopo e wireframe |
+| Sprint 2 | 16–30/09 | Desenvolvimento do MVP |
+| Sprint 3 | 01–15/10 | Integração com Firebase e testes |
+| Sprint 4 | 16–31/10 | Validação final e apresentação |
+
+---
+
+## 👥 Equipe e Funções
+| 💼 Função | 👤 Responsável | 🧭 Atribuições |
+|-----------|----------------|----------------|
+| Diretoria Executiva | [Seu Nome] | Coordenação geral, definição de metas e acompanhamento das entregas |
+| Administração | — | Controle de documentação e recursos |
+| Desenvolvimento | — | Criação, manutenção e integração com Firebase |
+| Marketing / Comercial | — | Divulgação e engajamento de usuários |
+| Conteúdo / Educação | — | Criação do mini curso e materiais educativos |
+
+---
+
+## 🧭 Conclusão
+O **Movimento Global** é uma iniciativa inovadora que une **tecnologia, educação e engajamento social** para transformar ideias em ações reais.  
+
+Com o uso do **Firebase (Cloud Firestore e Authentication)** e da stack **React + Next.js + TypeScript + TailwindCSS**, a plataforma oferece **desempenho, segurança e escalabilidade**.  
+
+🌎 O projeto está pronto para gerar impacto positivo em nível local e global — fortalecendo comunidades e promovendo cidades mais resilientes, inteligentes e sustentáveis.  
+💚 Juntos, podemos transformar ideias em ação!
