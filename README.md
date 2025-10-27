@@ -100,6 +100,59 @@ Usuário → Interface Web (Next.js) → Firebase Authentication → Cloud Fires
 
 ---
 
+## 💡 Diagrama de Arquitetura (resumido):
+
+        ┌───────────────┐
+        │   Usuário     │
+        └──────┬────────┘
+               │
+               ▼
+        ┌───────────────┐
+        │ Front-end     │
+        │ React   +     │
+        │ Next.js +     │
+        │ TypeScript +  │
+        │ TailwindCSS   │
+        └──────┬────────┘
+               │
+               ▼
+        ┌───────────────┐
+        │ Firebase      │
+        │ Authentication│
+        └──────┬────────┘
+               │
+               ▼
+        ┌────────────────┐
+        │ Cloud Firestore│
+        └──────┬─────────┘
+               │
+               ▼
+        ┌───────────────┐
+        │ Dashboard     │
+        │ Idias /       │
+        │ Comentários / │
+        │ Relatórios /  │
+        │ Mini Curso /  │
+        └───────────────┘
+
+
+---
+
+## 🔗 Endpoints / Funcionalidades de API
+> Toda a API é fornecida pelo Firebase (Firestore e Authentication).
+
+- **POST /ideas** → Enviar nova ideia  
+- **GET /ideas** → Listar ideias existentes  
+- **GET /ideas** → Listar comentários existentes
+- **POST /vote** → Votar em uma ideia  
+- **GET /votes** → Obter contagem de votos por ideia  (apenas admin)  
+- **GET /users** → Listar usuários cadastrados (apenas admin)  
+- **POST /auth/google** → Login via Google  
+
+> **Observação:** Todos os endpoints são protegidos via Firebase Authentication.
+
+---
+
 ## 💻 Como Executar o Projeto
 
 ### 🧰 Pré-requisitos
