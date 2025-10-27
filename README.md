@@ -15,7 +15,7 @@ Outubro/2025
 
 ## 🎯 Objetivo do Projeto
 
-A criação de uma Comunidade Global de Ideias, desenvolvida em React (Web) e React Native (Aplicativo Mobile). Com o objetivo é conectar pessoas interessadas em propor soluções que contribuam para tornar suas cidades mais inteligentes, sustentáveis e resilientes.
+É criar uma Comunidade Global de Ideias, desenvolvida em React (Web) e React Native (Aplicativo Mobile). Com o objetivo é conectar pessoas interessadas em propor soluções que contribuam para tornar suas cidades mais inteligentes, sustentáveis e resilientes.
 
 O propósito central é criar um movimento global de participação cidadã, unindo tecnologia e engajamento social para transformar ideias em ações concretas. A iniciativa visa promover resiliência urbana e adaptação às mudanças climáticas, abordando temas como desenvolvimento sustentável, mobilidade, energia, inclusão social, planejamento urbano e qualidade de vida.
 
