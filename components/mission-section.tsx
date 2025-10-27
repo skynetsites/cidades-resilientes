@@ -23,25 +23,25 @@ export function MissionSection() {
 
               {/* Impact Cards */}
               <div className="grid grid-cols-2 gap-4">
-                <Card className="bg-card/50 border-emerald-500/20">
+                <Card className="bg-card/50 border-emerald-500/20 transition-transform duration-300 hover:scale-105">
                   <CardContent className="p-4 text-center">
                     <Thermometer className="h-8 w-8 text-red-500 mx-auto mb-2" />
                     <p className="text-sm text-muted-foreground">Ilhas de Calor</p>
                   </CardContent>
                 </Card>
-                <Card className="bg-card/50 border-blue-500/20">
+                <Card className="bg-card/50 border-blue-500/20 transition-transform duration-300 hover:scale-105">
                   <CardContent className="p-4 text-center">
                     <Droplets className="h-8 w-8 text-blue-500 mx-auto mb-2" />
                     <p className="text-sm text-muted-foreground">Inundações</p>
                   </CardContent>
                 </Card>
-                <Card className="bg-card/50 border-gray-500/20">
+                <Card className="bg-card/50 border-gray-500/20 transition-transform duration-300 hover:scale-105">
                   <CardContent className="p-4 text-center">
                     <Wind className="h-8 w-8 text-gray-500 mx-auto mb-2" />
                     <p className="text-sm text-muted-foreground">Poluição</p>
                   </CardContent>
                 </Card>
-                <Card className="bg-card/50 border-emerald-500/20">
+                <Card className="bg-card/50 border-emerald-500/20 transition-transform duration-300 hover:scale-105">
                   <CardContent className="p-4 text-center">
                     <TreePine className="h-8 w-8 text-emerald-500 mx-auto mb-2" />
                     <p className="text-sm text-muted-foreground">Falta de Verde</p>
