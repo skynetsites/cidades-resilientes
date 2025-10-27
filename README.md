@@ -174,27 +174,26 @@ Para hospedar o back-end:
 🌐 Publicado automaticamente em poucos minutos 🎉
 
 ### GitHub Pages
-1. Configure o build do Next.js (`next.config.js`):
-```js
-const nextConfig = {
-  output: 'export',
-  images: { unoptimized: true },
-  trailingSlash: true,
-};
+1. Configure o build do Next.js (`next.config.js`):<br>
+const nextConfig = {<br>
+  output: 'export',<br>
+  images: { unoptimized: true },<br>
+  trailingSlash: true,<br>
+};<br>
 export default nextConfig;
 
-2. Gere os arquivos estáticos:
+2. Gere os arquivos estáticos:<br>
 npm run build
 
-3. Publique no branch gh-pages:
-
-git add .
-git commit -m "Build estático para GitHub Pages"
-git subtree push --prefix out origin gh-pages
+3. Publique no branch gh-pages:<br>
+git add .<br>
+git commit -m "Build estático para GitHub Pages"<br>
+git subtree push --prefix out origin gh-pages<br>
 
 4. Configure em Settings → Pages → branch gh-pages → /root
 
 🌐 Acesse: https://seuusuario.github.io/cidades-resiliente/
+
 
 ---
 
@@ -226,5 +225,6 @@ O **Movimento Global** é uma iniciativa inovadora que une **tecnologia, educaç
 
 Com o uso do **Firebase (Cloud Firestore e Authentication)** e da stack **React + Next.js + TypeScript + TailwindCSS**, a plataforma oferece **desempenho, segurança e escalabilidade**.  
 
-🌎 O projeto está pronto para gerar impacto positivo em nível local e global — fortalecendo comunidades e promovendo cidades mais resilientes, inteligentes e sustentáveis.  
+🌎 O projeto está pronto para gerar impacto positivo em nível local e global — fortalecendo comunidades e promovendo cidades mais resilientes, inteligentes e sustentáveis. 
+
 💚 Juntos, podemos transformar ideias em ação!
