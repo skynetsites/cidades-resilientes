@@ -3,7 +3,7 @@
 > 💬 Transformando sugestões dos cidadãos em ações reais para cidades mais inteligentes, sustentáveis e resilientes.
 
 ## 🏙️ Título
-**Movimento Global – Comunidade de Ideias Cidadãs (Cidades Resilientes)**
+**Movimento Global – Comunidade de Ideias Cidadãs**
 
 ## ✍️ Autor(es)
 Francisco Isaias Oliveira de Sou, Daniel da Cruz Fortes
