@@ -13,6 +13,14 @@ Outubro/2025
 
 ---
 
+## 🎯 Objetivo do Projeto
+
+A criação de uma Comunidade Global de Ideias, desenvolvida em React (Web) e React Native (Aplicativo Mobile). Com o objetivo é conectar pessoas interessadas em propor soluções que contribuam para tornar suas cidades mais inteligentes, sustentáveis e resilientes.
+
+O propósito central é criar um movimento global de participação cidadã, unindo tecnologia e engajamento social para transformar ideias em ações concretas. A iniciativa visa promover resiliência urbana e adaptação às mudanças climáticas, abordando temas como desenvolvimento sustentável, mobilidade, energia, inclusão social, planejamento urbano e qualidade de vida.
+
+---
+
 ## 💡 Problema e Público-Alvo
 As cidades enfrentam desafios significativos devido à urbanização acelerada e desordenada. A infraestrutura muitas vezes não acompanha o crescimento populacional, resultando em congestionamentos, poluição e baixa qualidade de vida.  
 Além disso, há uma lacuna de comunicação entre cidadãos e gestores públicos, o que faz com que boas ideias e sugestões acabem não sendo aproveitadas.  
@@ -50,9 +58,8 @@ O projeto contempla:
 ---
 
 ## 🔗 Links Importantes
-- 🧠 GitHub: [https://github.com/skynetsites/cidades-inteligentes](https://github.com/skynetsites/cidades-inteligentes)  
-- 🌐 Demo: [https://skynetsites.github.io/cidades-inteligentes](https://skynetsites.github.io/cidades-inteligentes)  
-- 🎥 Vídeo Demo (1 minuto): [https://youtube.com/MovimentoGlobalDemo](https://youtube.com/MovimentoGlobalDemo)
+- 🧠 GitHub: [https://github.com/skynetsites/cidades-resilientes](https://github.com/skynetsites/cidades-resilientes)  
+- 🌐 Demo: [https://skynetsites.github.io/cidades-resilientes](https://skynetsites.github.io/cidades-resilientes) 
 
 ---
 
@@ -103,19 +110,19 @@ Usuário → Interface Web (Next.js) → Firebase Authentication → Cloud Fires
 ### 🚀 Passos para rodar localmente
 
 Clone o repositório:  
-`git clone https://github.com/skynetsites/cidades-inteligentes.git`  
-`cd cidades-inteligentes`
+`git clone https://github.com/skynetsites/cidades-resilientes.git`  
+`cd cidades-resilientes`
 
 Instale as dependências:  
 `npm install`
 
 Configure as variáveis de ambiente (`.env.local`): 
 
-NEXT_PUBLIC_FIREBASE_API_KEY=SUACHAVE
-NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN=seuprojeto.firebaseapp.com
-NEXT_PUBLIC_FIREBASE_PROJECT_ID=seuprojeto
-NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET=seuprojeto.appspot.com
-NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID=000000000000
+NEXT_PUBLIC_FIREBASE_API_KEY=SUACHAVE<br>
+NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN=seuprojeto.firebaseapp.com<br>
+NEXT_PUBLIC_FIREBASE_PROJECT_ID=seuprojeto<br>
+NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET=seuprojeto.appspot.com<br>
+NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID=000000000000<br>
 NEXT_PUBLIC_FIREBASE_APP_ID=1:000000000000:web:xxxxxxxxxxxxx
 
 
@@ -199,18 +206,18 @@ git subtree push --prefix out origin gh-pages
 | Sprint 1 | 01–15/09 | Planejamento, definição de escopo e wireframe |
 | Sprint 2 | 16–30/09 | Desenvolvimento do MVP |
 | Sprint 3 | 01–15/10 | Integração com Firebase e testes |
-| Sprint 4 | 16–31/10 | Validação final e apresentação |
+| Sprint 4 | 16–28/10 | Validação final e apresentação |
 
 ---
 
 ## 👥 Equipe e Funções
 | 💼 Função | 👤 Responsável | 🧭 Atribuições |
 |-----------|----------------|----------------|
-| Diretoria Executiva | [Seu Nome] | Coordenação geral, definição de metas e acompanhamento das entregas |
-| Administração | — | Controle de documentação e recursos |
-| Desenvolvimento | — | Criação, manutenção e integração com Firebase |
-| Marketing / Comercial | — | Divulgação e engajamento de usuários |
-| Conteúdo / Educação | — | Criação do mini curso e materiais educativos |
+| Diretoria Executiva | Isaias Oliveira | Coordenação geral, definição de metas e acompanhamento das entregas |
+| Administração | Daniel Fortes | Controle de documentação e recursos |
+| Desenvolvimento | Isaias Oliveira | Criação, manutenção e integração com Firebase |
+| Marketing / Comercial | Daniel Fortes | Divulgação e engajamento de usuários |
+| Conteúdo / Educação | Isaias Oliveira<br>Daniel Fortes | Criação do mini curso e materiais educativos |
 
 ---
 
