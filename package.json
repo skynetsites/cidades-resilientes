@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "deploy": "next build && gh-pages -d out -b gh-pages"
+    "start": "next start",
+    "deploy": "next build && gh-pages -d out --dotfiles"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.10.0",

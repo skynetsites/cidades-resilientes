@@ -1,5 +1,6 @@
 "use client"
 
+import Image from 'next/image';
 import { Card, CardContent } from "@/components/ui/card"
 import { TreePine, Thermometer, Droplets, Wind } from "lucide-react"
 
@@ -53,7 +54,7 @@ export function MissionSection() {
             {/* City Illustration */}
             <div className="relative">
               <div className="bg-gradient-to-br from-emerald-500/10 to-blue-500/10 rounded-2xl p-8">
-                <img
+                <Image
                   src="/background.webp"
                   alt="Cidade Inteligente e Sustentável"
                   className="w-full h-auto rounded-lg"

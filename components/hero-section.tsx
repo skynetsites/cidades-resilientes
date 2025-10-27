@@ -1,5 +1,5 @@
 "use client"
-
+import Image from 'next/image';
 import { Button } from "@/components/ui/button"
 import { ArrowDown, Sparkles } from "lucide-react"
 import { useLanguage } from "@/contexts/LanguageContext";
@@ -25,7 +25,7 @@ export function HeroSection() {
 
       {/* City Illustration */}
       <div className="absolute right-8 top-1/2 transform -translate-y-1/2 hidden lg:block">
-        <img
+        <Image
           src="/world.webp"
           alt="Cidade Inteligente"
           className="w-96 h-64 object-contain opacity-80"

@@ -60,8 +60,8 @@ export async function POST(req: NextRequest) {
     });
 
     // 3️⃣ Carrega templates de e-mail
-    const adminTemplatePath = path.join(process.cwd(), "templates/admin-template.html");
-    const confirmationTemplatePath = path.join(process.cwd(), "templates/confirmation-template.html");
+    const adminTemplatePath = path.join(process.cwd(), "/cidades-resilientes/templates/admin-template.html");
+    const confirmationTemplatePath = path.join(process.cwd(), "/cidades-resilientes/templates/confirmation-template.html");
 
     const adminHtml = fs.readFileSync(adminTemplatePath, "utf-8")
       .replace("{{nome}}", nome)
