@@ -92,7 +92,7 @@ O projeto contempla:
 - **Back-end:** ☁️ Firebase (Cloud Firestore + Authentication)  
 - **Banco de Dados:** 🗃️ Cloud Firestore  
 - **Autenticação:** 🔑 Firebase Authentication (Login com Google)  
-- **Hospedagem:** 🌎 Vercel / Firebase Hosting  
+- **Hospedagem:** 🌎 Github Pages / Vercel / Firebase Hosting  
 - **Integrações:** 🔗 Firestore / Google APIs  
 
 📊 **Fluxo da Arquitetura:**  
@@ -194,7 +194,6 @@ git subtree push --prefix out origin gh-pages<br>
 
 🌐 Acesse: https://seuusuario.github.io/cidades-resiliente/
 
-
 ---
 
 ## 🗓️ Cronograma e Metodologia
@@ -211,7 +210,7 @@ git subtree push --prefix out origin gh-pages<br>
 
 ## 👥 Equipe e Funções
 | 💼 Função | 👤 Responsável | 🧭 Atribuições |
-|-----------|----------------|----------------|
+|-----------|-----------------|----------------|
 | Diretoria Executiva | Isaias Oliveira | Coordenação geral, definição de metas e acompanhamento das entregas |
 | Administração | Daniel Fortes | Controle de documentação e recursos |
 | Desenvolvimento | Isaias Oliveira | Criação, manutenção e integração com Firebase |
